@@ -1,5 +1,5 @@
-# Pete's notes
+# [Pete](https://github.com/grey275)'s notes
 
-# This is an H1 header (largest)
-###### this is an H6 editor (smallest)
+## Summary
+This repository may or may not contain all of my notes from my Lighthouse labs web dev bootcamp!
 
